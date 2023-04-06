@@ -10,7 +10,7 @@
 
 
 ## Creators
-This script, originally was made by [NetworkChuck on YouTube](https://www.youtube.com/watch?v=Fq6gqi9Ubog)
+This script, originally was made by [devepation](https://github.com/devepation/EldenBash)
 
 As a result of following these bash tutorials, I've decided to make it official!
 
