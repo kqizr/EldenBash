@@ -13,3 +13,5 @@ wget -qO- https://github.com/Devepation/EldenBash/raw/main/installer-beta-2 | sh
 
 # Differences:
 #!/bin/bash is now #!/bin/sh for better compatibility for other shells.
+
+# Has "YOU DIED" "Great Foe Vanquished" and "Enemy Fallen" Just like in the Actual Game.
